@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
-	3주 밖에 안남았어 흑흑흑
+	3주 밖에 안남았어 흑흑흑흐그흐그
 </body>
 </html>
