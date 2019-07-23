@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	3주 밖에 안남았어 흑흑흑흐그흐그
+	3주 밖에 안남았어 흑흑흑흐그흐그흑흐흐ㅡㄱ
 </body>
 </html>
